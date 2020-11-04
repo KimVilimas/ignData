@@ -8,7 +8,7 @@ I would highly recommend this tutorial for beginners with python and pandas who 
 ### Citations
 Original tutorial can be found [here](https://www.dataquest.io/blog/pandas-python-tutorial/)
 
-**Author of tutorial** : Vik Paruchuri
-**Datascrape by** : Eric Grinstein
-**Date published** : August 26, 2019
-**For the site** : DataQuest
+- **Author of tutorial** : Vik Paruchuri
+- **Datascrape by** : Eric Grinstein
+- **Date published** : August 26, 2019
+- **For the site** : DataQuest
